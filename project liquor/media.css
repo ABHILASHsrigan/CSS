@@ -1,0 +1,8 @@
+@media { min-width: 100%;
+    .cart{
+        position: absolute;
+        top: 10%;
+        left: 89%;
+        color: orangered;
+    }
+}
