@@ -192,3 +192,24 @@
     font-family: sans-serif;
 
 }
+.thirdpt{
+    height: 800px;
+    width: 100%;
+    position: absolute;
+    margin-top: 46%;
+}
+.thirdpt3{
+    height: 600px;
+    width: 30%;
+    position: absolute;
+    margin-top: 50%;
+}
+.pe1{
+    position: absolute;
+  top: 110%;
+    color: white;
+
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
